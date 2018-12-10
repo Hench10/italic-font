@@ -1,10 +1,10 @@
 package main
 
 import (
-	"github.com/Hench10/italic-font"
+	italic "github.com/Hench10/italic-font"
 )
 
 func main() {
-	MyInit()
-	MyTest()
+	italic.MyInit()
+	italic.MyTest()
 }
